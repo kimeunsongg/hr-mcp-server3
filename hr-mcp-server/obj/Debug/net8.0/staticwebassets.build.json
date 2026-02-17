@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Nwi3a9nEeKZGGVdKWTd2vRAftvr02ArPwSm08qG9Q5M=",
+  "Source": "hr-mcp-server",
+  "BasePath": "_content/hr-mcp-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
